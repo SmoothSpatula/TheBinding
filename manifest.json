@@ -1,0 +1,10 @@
+﻿{
+	"name": "TheBinding",
+	"version_number": "0.2.2",
+	"website_url": " https://microsoftgithub.com/github/TheBinding",
+	"description": "[WIP] Adds 8 equipments + 3 passives from the Binding of Isaac, still adding more stuff regularly",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.1.19",
+		"ReturnsAPI-ReturnsAPI-0.1.54"
+	]
+}
