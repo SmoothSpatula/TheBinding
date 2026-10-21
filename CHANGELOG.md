@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.3
+- Added Box Of Friends (DigBug)
+- Added Sacrificial Altar (DigBug)
+
 ## 0.2.2
 - Added 3 Dollar Bill
 
