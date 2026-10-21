@@ -1,5 +1,7 @@
 ## Work In Progress
 
+Making this for fun and also now DigBug made a couple as well :)
+<br>
 For now this mod adds 10 equipments + 3 passives from the Binding of Isaac
 
 ## Equipments
